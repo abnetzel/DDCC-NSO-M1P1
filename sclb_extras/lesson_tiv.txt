@@ -1,0 +1,24 @@
+! SoftChalk LessonBuilder
+! ================ DO NOT EDIT ================
+
+act_item=9
+
+act_num=4
+act_type=304
+items=0
+showList=false
+showFlashCardTerm=true
+showFlashCardDef=false
+useFlashBigText=false
+hideActivityBackground=false
+instructions=Click to drag the card on the left to the matching card on the right. 
+minimumDuration=5
+inline=true
+points=0
+showRestart=true
+showTitle=true
+sqrsize=18
+adaDescription=
+hotspotWidth=450
+hotspotHeight=500
+iconPosition=1
